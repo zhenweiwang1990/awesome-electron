@@ -214,6 +214,7 @@ Made with Electron.
 
 ###### Other
 
+- [He3](https://he3.app) - Modern Developer Toolbox.
 - [GitKraken](http://www.gitkraken.com) - Git client.
 - [1Clipboard](http://1clipboard.io) - Universal clipboard manager.
 - [Postman](https://www.getpostman.com) - Create and send HTTP requests.
